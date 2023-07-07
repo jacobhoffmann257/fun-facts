@@ -1,5 +1,5 @@
-# About Me
-This repository is an index of name, quotes, favorite colors, and fun facts.
+# Fun Facts
+This repository is an index of fun facts.
 
 ## How to Contribute
 Clone this repository (or open in codespace), create a branch, add your link in bio, commit, push branch, create a pull request into main branch. Pull requests must have at least 2 approvals before being merged. Do not commit directly to main!
