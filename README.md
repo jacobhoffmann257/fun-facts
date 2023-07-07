@@ -8,17 +8,17 @@ Clone this repository (or open in codespace), create a branch, add your link in 
 ## Instructors
 
 | Name | Fun Fact |
-| --- | --- | --- |
+| --- | --- |
 | Ian Heraty | I lived in Shenzhen, China for 4 years. |
 
 
 ## 2023-1.1 Hash Rockets
 
 | Name | Fun Fact |
-| --- | --- | --- |
+| --- | --- |
 
 
 ## 2023-2.1 Fullstack Pancakes
 
 | Name | Fun Fact |
-| --- | --- | --- |
+| --- | --- |
