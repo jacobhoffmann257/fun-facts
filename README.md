@@ -10,6 +10,7 @@ Clone this repository (or open in codespace), create a branch with your name, ad
 | --- | --- |
 | Ian Heraty | I lived in Shenzhen, China for 4 years. |
 | Ian Heraty | Cats have 9 lives. |
+| Jazmine Tran | I previously worked as a NICU nurse. |
 
 
 ## 2023-1.1 Hash Rockets
