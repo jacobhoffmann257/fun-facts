@@ -21,4 +21,4 @@ Clone this repository (or open in codespace), create a branch with your name, ad
 
 | Name | Fun Fact |
 | --- | --- |
-| Darryl Williams | I want to have a baby goat kennel.
+| Darryl Williams | I want to have a baby goat kennel |
