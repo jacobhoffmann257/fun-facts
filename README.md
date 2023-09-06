@@ -12,6 +12,7 @@ Clone this repository (or open in codespace), create a branch with your name, ad
 | Ian Heraty | Cats have 9 lives. |
 | Jazmine Tran | I previously worked as a NICU nurse. |
 | John Leavell | I make the best lemon pancakes. |
+| Dustin Doyle | I painted murals in Baghdad at the embassy. |
 
 ## 2023-1.1 Hash Rockets
 
@@ -23,3 +24,4 @@ Clone this repository (or open in codespace), create a branch with your name, ad
 
 | Name | Fun Fact |
 | --- | --- |
+| Dustin Doyle | Australia is wider than the moon. |
