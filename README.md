@@ -20,4 +20,5 @@ Clone this repository (or open in codespace), create a branch with your name, ad
 ## 2023-2.1 Fullstack Pancakes
 
 | Name | Fun Fact |
-| Darryl Williams | I enjoy long walks along the beach. |
+| --- | --- |
+| Darryl Williams | I want to have a baby goat kennel.
