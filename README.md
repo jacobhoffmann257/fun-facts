@@ -1,5 +1,5 @@
 # Fun Facts
-This repository is an index of fun facts.
+This repository is an index of fun facts. The fun fact can be about you (or anything/anybody).
 
 ## How to Contribute
 Clone this repository (or open in codespace), create a branch with your name, add your name and fun fact, commit, push branch, create a pull request into main branch. Pull requests must have at least 2 approvals before being merged. Do not commit directly to main!
