@@ -27,4 +27,5 @@ Clone this repository (or open in codespace), create a branch with your name, ad
 | --- | --- |
 | Darryl Williams | I want to have a baby goat kennel |
 | Dustin Doyle | Australia is wider than the moon. |
+| John Leavell | I have a cat and a dog. |
 
