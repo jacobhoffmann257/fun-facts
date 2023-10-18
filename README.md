@@ -13,7 +13,7 @@ Clone this repository (or open in codespace), create a branch with your name, ad
 | Jazmine Tran | I previously worked as a NICU nurse. |
 | John Leavell | I make the best lemon pancakes. |
 | Dustin Doyle | I painted murals in Baghdad at the embassy. |
-| Mena Castillo | My prints have been bought by NIU, ECC and ISU. |
+| Mena Castillo | I like turtles |
 
 ## 2023-1.1 Hash Rockets
 
