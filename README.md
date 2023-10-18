@@ -30,3 +30,4 @@ Clone this repository (or open in codespace), create a branch with your name, ad
 ## 2023-9.1
 | Name | Fun Fact |
 | --- | --- |
+| Kat Jarboe | Some cats have 6 beans per paw instead of 5 |
