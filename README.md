@@ -29,3 +29,6 @@ Clone this repository (or open in codespace), create a branch with your name, ad
 | Dustin Doyle | Australia is wider than the moon. |
 | John Leavell | I have a cat and a dog. |
 
+## 2023-9.1
+| Name | Fun Fact |
+| --- | --- |
