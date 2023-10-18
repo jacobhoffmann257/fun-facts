@@ -32,6 +32,8 @@ Clone this repository (or open in codespace), create a branch with your name, ad
 ## 2023-9.1
 | Name | Fun Fact |
 | --- | --- |
+| Fidel Leal| I am about the only Cuban that cannot dance, swim or play baseball :) |
+| Carlos Castaneda | I've traveled to 4 different continents. |
 | Alexandra Mompremier | I love to sew! |
 | Brenda Reyes | I broke 4 of toes all at once |
 |Aldo Portillo | I like water |
