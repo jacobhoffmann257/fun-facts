@@ -48,4 +48,4 @@ Clone this repository (or open in codespace), create a branch with your name, ad
 | Andrew Cook | I like turtles|
 | David Hibble | A shrimp's heart is located in its head.|
 | Kat Jarboe | Some cats have 6 beans per paw instead of 5 |
-| Andre Garner | I play Fortnite |
+| Alina Sapronova | I hate frogs |
