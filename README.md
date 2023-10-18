@@ -32,3 +32,4 @@ Clone this repository (or open in codespace), create a branch with your name, ad
 ## 2023-9.1
 | Name | Fun Fact |
 | --- | --- |
+| Thierry | I played Ragnarok Online when I was in elementary school |
