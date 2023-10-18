@@ -33,3 +33,4 @@ Clone this repository (or open in codespace), create a branch with your name, ad
 | Name | Fun Fact |
 | --- | --- |
 | Dmitrii Sumenko | Dmitrii Sumenko | When Chuck Norris does push-ups, he doesn't push himself up, he pushes the Earth down.
+| Fidel Leal| I am about the only Cuban that cannot dance, swim or play baseball :) |
