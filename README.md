@@ -31,4 +31,4 @@ Clone this repository (or open in codespace), create a branch with your name, ad
 
 ## 2023-9.1
 | Name | Fun Fact |
-| --- | --- |
+| Jacob Hoffmann | Elephants are the only animal can't jump. |
