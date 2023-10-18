@@ -13,6 +13,7 @@ Clone this repository (or open in codespace), create a branch with your name, ad
 | Jazmine Tran | I previously worked as a NICU nurse. |
 | John Leavell | I make the best lemon pancakes. |
 | Dustin Doyle | I painted murals in Baghdad at the embassy. |
+| Ian Heraty | My first iOS app was about chickens crossing the road. |
 
 ## 2023-1.1 Hash Rockets
 
@@ -26,9 +27,13 @@ Clone this repository (or open in codespace), create a branch with your name, ad
 | --- | --- |
 | Darryl Williams | I want to have a baby goat kennel |
 | Dustin Doyle | Australia is wider than the moon. |
+| John Leavell | I have a cat and a dog. |
 
 ## 2023-9.1
 | Name | Fun Fact |
 | --- | --- |
 | Alexandra Mompremier | I love to sew! |
 | Brenda Reyes | I broke 4 of toes all at once |
+| Thierry | I played Ragnarok Online when I was in elementary school |
+| Fidel Leal| I am about the only Cuban that cannot dance, swim or play baseball :) |
+| Andrew Cook | I like turtles|
