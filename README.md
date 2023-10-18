@@ -33,3 +33,4 @@ Clone this repository (or open in codespace), create a branch with your name, ad
 | Name | Fun Fact |
 | --- | --- |
 | Fidel Leal| I am about the only Cuban that cannot dance, swim or play baseball :) |
+| Carlos Castaneda | I've traveled to 4 different continents. |
