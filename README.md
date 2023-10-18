@@ -36,3 +36,4 @@ Clone this repository (or open in codespace), create a branch with your name, ad
 | Thierry | I played Ragnarok Online when I was in elementary school |
 | Fidel Leal| I am about the only Cuban that cannot dance, swim or play baseball :) |
 | Andrew Cook | I like turtles|
+| Kat Jarboe | Some cats have 6 beans per paw instead of 5 |
