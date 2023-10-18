@@ -34,6 +34,8 @@ Clone this repository (or open in codespace), create a branch with your name, ad
 | --- | --- |
 | Alexandra Mompremier | I love to sew! |
 | Brenda Reyes | I broke 4 of toes all at once |
+|Alejandro Lopes| I have 2 dogs and a turtle|
 | Thierry | I played Ragnarok Online when I was in elementary school |
 | Fidel Leal| I am about the only Cuban that cannot dance, swim or play baseball :) |
 | Andrew Cook | I like turtles|
+| Kat Jarboe | Some cats have 6 beans per paw instead of 5 |
