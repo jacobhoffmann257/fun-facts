@@ -32,6 +32,8 @@ Clone this repository (or open in codespace), create a branch with your name, ad
 ## 2023-9.1
 | Name | Fun Fact |
 | --- | --- |
+| Alexandra Mompremier | I love to sew! |
+| Brenda Reyes | I broke 4 of toes all at once |
 |Aldo Portillo | I like water |
 |Alejandro Lopes| I have 2 dogs and a turtle|
 | Thierry | I played Ragnarok Online when I was in elementary school |
