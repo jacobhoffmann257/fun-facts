@@ -31,6 +31,11 @@ Clone this repository (or open in codespace), create a branch with your name, ad
 
 ## 2023-9.1
 | Name | Fun Fact |
+
+| --- | --- |
+
+| Carman Chiu | My dream is to become a great dancer :D |
+| Calvin Armstrong | I have a custom six-string electric cello that I designed and play heavy metal on. |
 | Jorge Pioquinto | Every Thanksgiving, I make the turkey |
 |Alejandro Lopez| I have 2 dogs and a turtle|
 |Jared Bears|Tomatoes, potatoes, and peppers are all part of the nightshade family and are toxic when unripe|
@@ -41,6 +46,7 @@ Clone this repository (or open in codespace), create a branch with your name, ad
 |Aldo Portillo | I like water |
 | Thierry | I played Ragnarok Online when I was in elementary school |
 | Sara Schoonover | I have an 8 year old Dachshund mix named Comet. |
+| Jun So | The biggest bass I have caught is 4.97 lbs |
 | Andrew Cook | I like turtles|
 | David Hibble | A shrimp's heart is located in its head.|
 | Kat Jarboe | Some cats have 6 beans per paw instead of 5 |
