@@ -32,7 +32,7 @@ Clone this repository (or open in codespace), create a branch with your name, ad
 ## 2023-9.1
 | Name | Fun Fact |
 | --- | --- |
-| Alejandro Lopes| I have 2 dogs and a turtle|
+|Alejandro Lopez| I have 2 dogs and a turtle|
 |Jared Bears|Tomatoes, potatoes, and peppers are all part of the nightshade family and are toxic when unripe|
 | Fidel Leal| I am about the only Cuban that cannot dance, swim or play baseball :) |
 | Carlos Castaneda | I've traveled to 4 different continents. |
@@ -44,5 +44,6 @@ Clone this repository (or open in codespace), create a branch with your name, ad
 | Thierry | I played Ragnarok Online when I was in elementary school |
 | Fidel Leal| I am about the only Cuban that cannot dance, swim or play baseball :) |
 | Andrew Cook | I like turtles|
+| David Hibble | A shrimp's heart is located in its head.|
 | Brenda Reyes | I broke 4 of my toes all at once |
 | Kat Jarboe | Some cats have 6 beans per paw instead of 5 |
