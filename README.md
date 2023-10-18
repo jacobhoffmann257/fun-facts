@@ -37,3 +37,4 @@ Clone this repository (or open in codespace), create a branch with your name, ad
 | Fidel Leal| I am about the only Cuban that cannot dance, swim or play baseball :) |
 | Andrew Cook | I like turtles|
 | Brenda Reyes | I broke 4 of my toes all at once |
+| Kat Jarboe | Some cats have 6 beans per paw instead of 5 |
