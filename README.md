@@ -31,5 +31,5 @@ Clone this repository (or open in codespace), create a branch with your name, ad
 
 ## 2023-9.1
 | Name | Fun Fact |
-| --- | --- |
+| Jorge Pioquinto | Every Thanksgiving, I make the turkey |
 | Fidel Leal| I am about the only Cuban that cannot dance, swim or play baseball :) |
