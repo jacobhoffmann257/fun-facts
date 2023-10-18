@@ -34,3 +34,4 @@ Clone this repository (or open in codespace), create a branch with your name, ad
 | --- | --- |
 | Fidel Leal| I am about the only Cuban that cannot dance, swim or play baseball :) |
 | Jun So | The biggest bass I have caught is 4.97 lbs |
+| Thierry | I played Ragnarok Online when I was in elementary school |
