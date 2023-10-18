@@ -30,3 +30,4 @@ Clone this repository (or open in codespace), create a branch with your name, ad
 ## 2023-9.1
 | Name | Fun Fact |
 | --- | --- |
+| Alexandra Mompremier | I love to sew! |
